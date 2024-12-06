@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the RecursionError caused by exceeding the maximum recursion depth. The `bug.py` file shows a factorial function that incorrectly handles negative inputs, resulting in infinite recursion. The `bugSolution.py` file provides a corrected version that gracefully handles negative inputs and prevents the error.
